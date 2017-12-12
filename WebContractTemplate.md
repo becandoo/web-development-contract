@@ -131,9 +131,8 @@ We both agree that we’ll adhere to all relevant laws and regulations in relati
 
 This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of **English and Welsh** courts.
+Although the language is simple, the intentions are serious and this contract is a legal and binding document between both parties.
 
-Oh and don’t forget those men with big dogs.
 
 ### The dotted line 
 
