@@ -151,9 +151,13 @@ Although the language is simple, the intentions are serious and this contract is
 ### The dotted line
 
 Signed by and on behalf of **Carbon Web Development Services**
------------
+
+***
+
 Signed by and on behalf of **Fan Club, LLC
------------
+
+***
+
 Date **date**
 
 Everyone should sign above and keep a copy for their records.
