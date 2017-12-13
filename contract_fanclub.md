@@ -148,10 +148,12 @@ This contract stays in place and need not be renewed. If for some reason one par
 Although the language is simple, the intentions are serious and this contract is a legal and binding document between both parties.
 
 
-### The dotted line 
+### The dotted line
 
 Signed by and on behalf of **Carbon Web Development Services**
+-----------
 Signed by and on behalf of **Fan Club, LLC
+-----------
 Date **date**
 
 Everyone should sign above and keep a copy for their records.
