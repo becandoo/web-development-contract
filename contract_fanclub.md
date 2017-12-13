@@ -8,9 +8,9 @@
 * * *
 
 
-**Between** Carbon Web Development
+**Between** Carbon Web Development Services
 
-**And** Fan Club.
+**And** Fan Club, LLC.
 
 ### Summary:
 
@@ -18,7 +18,7 @@ We’ll always do our best to fulfil your needs and meet your expectations, but 
 
 ### So in short;
 
-You **Fan Club, LLC** located at **customer address** (“You”) are hiring us **Carbon Web Development Services** (“We or Us”) to:
+You **Fan Club, LLC** located at **35900 Industrial Way, Ste 101 | Sandy, OR 97055** (“You”) are hiring us **Carbon Web Development Services** (“We or Us”) to:
 
 - **Design and develop an e-commerce based web site**
 
