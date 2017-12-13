@@ -119,8 +119,8 @@ We’re sure you understand how important it is as a small business that you pay
 | git diff | Show file differences that haven't been staged |
 
 **Payment details**
-| Tables                           | Cost          |
-| ---------------------------------|:-------------:|
+| Tables     | Cost          |
+| ---------|-------------|
 | Research & Project Planning      | $200.00       |
 | Front-End Design & Development   | $400.00       |
 | Back-End Setup & Development     | $500.00       |
@@ -130,8 +130,8 @@ We’re sure you understand how important it is as a small business that you pay
 | **Total**                        | **$2000.00**  |
 
 **Payment schedule**
-| Phase                               | Amount        | Invoice  |
-| ------------------------------------|:-------------:| --------:|
+| Phase               | Amount        | Invoice  |
+| ------------------|-------------|--------|
 | Phase I (at start of project)       | $500.00       | 1/1/2018 |
 | Project Completion                  | $1500.00      | TBD      |
 
