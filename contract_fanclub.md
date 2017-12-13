@@ -119,21 +119,23 @@ We’re sure you understand how important it is as a small business that you pay
 | git diff | Show file differences that haven't been staged |
 
 **Payment details**
-| Tables     | Cost          |
-| ---------|-------------|
-| Research & Project Planning      | $200.00       |
-| Front-End Design & Development   | $400.00       |
-| Back-End Setup & Development     | $500.00       |
-| QA Testing                       | $400.00       |
-| Support and Maintenance          | $400.00       |
-| Domain registration and setup 5yr| $100.00       |
-| **Total**                        | **$2000.00**  |
+
+| Services | Cost |
+| --- | --- |
+| Research & Project Planning | $200.00 |
+| Front-End Design & Development | $400.00 |
+| Back-End Setup & Developmen | $500.00 |
+| QA Testing | $400.00 |
+| Support & Maintenance | $400.00 |
+| Domain registration & setup 5yr | $100.00 |
+| **Total**                        | **$2000.00** |
 
 **Payment schedule**
-| Phase               | Amount        | Invoice  |
-| ------------------|-------------|--------|
-| Phase I (at start of project)       | $500.00       | 1/1/2018 |
-| Project Completion                  | $1500.00      | TBD      |
+
+| Phase | Amount | Invoice Date |
+| --- | --- | --- |
+| Phase I (at start of project) | $500.00 | 1/1/2018 |
+| Project Completion | $1500.00 | TBD |
 
 Invoices will be sent electronically. Our payment terms are 30 days from the date of invoice. All proposals are quoted in US Dollars and payments will be made at the equivalent conversion rate at the date the transfer is made.
 
