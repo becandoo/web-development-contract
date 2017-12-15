@@ -132,7 +132,7 @@ We’re sure you understand how important it is as a small business that you pay
 | Phase I (at start of project) | $500.00 | 1/1/2018 |
 | Project Completion | $1400.00 | TBD |
 
-Invoices will be sent electronically. All proposals are quoted in US Dollars and payments will be made at the equivalent conversion rate at the date the transfer is made.
+Invoices will be sent electronically. Our payment terms are 30 days from the date of invoice. All proposals are quoted in US Dollars and payments will be made at the equivalent conversion rate at the date the transfer is made.
 
 
 ### But where’s all the horrible small print?
@@ -145,6 +145,7 @@ This contract stays in place and need not be renewed. If for some reason one par
 
 Although the language is simple, the intentions are serious and this contract is a legal and binding document between both parties.
 
+This contract is valid pending purchase of currently established buisiness. If purchase falls through, $200.00 cancellation fee will apply and contract will be null and void.
 
 ### The dotted line
 
