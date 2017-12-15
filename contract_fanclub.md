@@ -22,7 +22,7 @@ You **Fan Club, LLC** located at **35900 Industrial Way, Ste 101 | Sandy, OR 970
 
 - **Design and develop an e-commerce based web site**
 
-For the estimated total price of **2,000.00** as outlined in our previous correspondence.
+For the estimated total price of **1,900.00** as outlined in our previous correspondence.
 
 Of course it’s a little more complicated, but we’ll get to that.
 
@@ -123,19 +123,17 @@ We’re sure you understand how important it is as a small business that you pay
 | Back-End Setup & Developmen | $500.00 |
 | QA Testing | $400.00 |
 | Support & Maintenance | $400.00 |
-| Domain registration & setup 5yr | $100.00 |
-| **Total**                        | **$2000.00** |
+| **Total**                        | **$1900.00** |
 
 **Payment schedule**
 
 | Phase | Amount | Invoice Date |
 | --- | --- | --- |
 | Phase I (at start of project) | $500.00 | 1/1/2018 |
-| Project Completion | $1500.00 | TBD |
+| Project Completion | $1400.00 | TBD |
 
-Invoices will be sent electronically. Our payment terms are 30 days from the date of invoice. All proposals are quoted in US Dollars and payments will be made at the equivalent conversion rate at the date the transfer is made.
+Invoices will be sent electronically. All proposals are quoted in US Dollars and payments will be made at the equivalent conversion rate at the date the transfer is made.
 
-You agree to pay all charges associated with international transfers of funds.
 
 ### But where’s all the horrible small print?
 
