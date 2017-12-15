@@ -156,6 +156,8 @@ Signed by and on behalf of **Fan Club, LLC**
 
 ***
 
-Date ***
+Date 
+
+***
 
 Everyone should sign above and keep a copy for their records.
